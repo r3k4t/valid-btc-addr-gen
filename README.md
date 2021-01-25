@@ -3,7 +3,7 @@
 
 ![Screenshot from 2021-01-24 18-39-20](https://user-images.githubusercontent.com/69615463/105656064-98dedd00-5eeb-11eb-9750-92e05bb4fe94.png)
 <br>
-[![python](https://img.shields.io/badge/python-purple.svg)](https://www.python.org/downloads/release/python/)
+[![python](https://img.shields.io/badge/python-purple.svg)](https://www.python.org/downloads/release/python)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 
 
